@@ -7,6 +7,7 @@
   <li>🌱 I’m currently learning <strong>C</strong> and <strong>Python</strong></li>
   <li>💬 My English is <strong>advanced</strong></li>
 </ul>
+
 ### :globe_with_meridians: Contact:
 [<img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=joaopedro.lg" />](https://www.instagram.com/joaopedro.lg/)&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joãopedrolopesgonçalves)&nbsp;&nbsp;&nbsp;
