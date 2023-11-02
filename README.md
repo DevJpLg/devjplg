@@ -10,27 +10,25 @@
 </ul>
 
 <h2 style="color:blue;">Others</h2>
-<li>Studying:</li>
 
+<li>Studying:</li>
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 <li>SO:</li>
-
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;&nbsp;
 
 ### :globe_with_meridians: Contact:
-
 <a href="https://www.instagram.com/joaopedro.lg/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=joaopedro.lg" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=joaopedro.lg"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/joãopedrolopesgonçalves" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:joaopedro.lg@hotmail.com?subject" target="_blank">
-  <img src="https://img.shields.io/badge/EMAIL-white?&style=for-the-badge&logo=mail.ru&logoColor=FFFFFF&label=joaopedro.lg@hotmail.com" />
+  <img src="https://img.shields.io/badge/EMAIL-white?&style=for-the-badge&logo=mail.ru&logoColor=FFFFFF&label=joaopedro.lg@hotmail.com"/>
 </a>
