@@ -30,7 +30,7 @@
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-### :globe_with_meridians: Contact:
+<h2 style="color:white;">:globe_with_meridians: Contact:</h2>
 
 <a href="https://www.instagram.com/joaopedro.lg/">
   <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=joaopedro.lg" />
