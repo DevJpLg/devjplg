@@ -9,20 +9,24 @@
   <li>💬 My English is <strong>advanced</strong></li>
 </ul>
 
+<style>
+  /* Custom styles to remove underline from links */
+  a {
+    text-decoration: none;
+    color: inherit; /* Use the parent element's color (black in this case) for the link text */
+  }
+</style>
+
 ### :globe_with_meridians: Contact:
 
-<div align="center">
+<a href="https://www.instagram.com/joaopedro.lg/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=joaopedro.lg" alt="imagem_Instagram">
+</a>&nbsp;&nbsp;&nbsp;
 
-    <a href="https://www.instagram.com/joaopedro.lg/">
-        <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=joaopedro.lg" alt="imagem_Instagram">
-    </a>   
-    
-    <a href="https://www.linkedin.com/in/joãopedrolopesgonçalves">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="imagem_Linkedin">
-    </a>   
-    
-    <a href="mailto:joaopedro.lg@hotmail.com?subject">
-        <img src="https://img.shields.io/badge/EMAIL-white?&style=for-the-badge&logo=mail.ru&logoColor=FFFFFF&label=joaopedro.lg@hotmail.com" alt="imagem_Email">
-    </a>   
-    
-</div>
+<a href="https://www.linkedin.com/in/joãopedrolopesgonçalves" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="imagem_Linkedin">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:joaopedro.lg@hotmail.com?subject" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/EMAIL-white?&style=for-the-badge&logo=mail.ru&logoColor=FFFFFF&label=joaopedro.lg@hotmail.com" alt="imagem_Email">
+</a>&nbsp;&nbsp;&nbsp;
