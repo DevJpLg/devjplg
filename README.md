@@ -25,11 +25,11 @@
 
 <a href="https://www.instagram.com/joaopedro.lg/">
     <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=joaopedro.lg" />
-  </a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/joãopedrolopesgonçalves" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:joaopedro.lg@hotmail.com?subject" target="_blank">
   <img src="https://img.shields.io/badge/EMAIL-white?&style=for-the-badge&logo=mail.ru&logoColor=FFFFFF&label=joaopedro.lg@hotmail.com" />
