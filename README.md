@@ -1,4 +1,4 @@
-<img src="https://gist.githubusercontent.com/JayaRaghavendra/5289d3687bf8bcd6d806b3655e11c7f4/raw/abf4b7228cadc93427e398a7f4d8fb031988c90d/Hello%2520World.gif" alt="Imagem">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Imagem">
 
 <h2 style="color:blue;">Things about me:</h2>
 <ul>
@@ -9,8 +9,9 @@
   <li>💬 My English is <strong>advanced</strong></li>
 </ul>
 
-### :globe_with_meridians: Contact:
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Imagem">
 
+### :globe_with_meridians: Contact:
 [<img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=joaopedro.lg" />](https://www.instagram.com/joaopedro.lg/)&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joãopedrolopesgonçalves)&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/EMAIL-white?&style=for-the-badge&logo=mail.ru&logoColor=FFFFFF&label=joaopedro.lg@hotmail.com" />](mailto:joaopedro.lg@hotmail.com)&nbsp;&nbsp;&nbsp;
