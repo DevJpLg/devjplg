@@ -1,7 +1,6 @@
-<img src="https://miro.medium.com/v2/resize:fit:700/1*ILmF44mRXGxayP2AXc2hWA.gif" alt="Imagem">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZiMXZnYnlmcW9mZHZ6ODgxaTBhOGMzN3puYXl3cW1kcXRubGdocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8tTGrCtze4QgDntz1F/giphy.gif" alt="Imagem">
 
-### Things about me:
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Imagem">
+<h2 style="color:blue;">Things about me:</h2>
 <ul>
   <li>🌎 From <strong>Brazil</strong> to the <strong>World</strong></li>
   <li>📚 Studying Computer Engineering at <strong>IFF Campos Centro</strong></li>
@@ -9,6 +8,8 @@
   <li>🌱 I’m currently learning <strong>C</strong> and <strong>Python</strong></li>
   <li>💬 My English is <strong>advanced</strong></li>
 </ul>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Imagem">
 
 ### :globe_with_meridians: Contact:
 [<img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=joaopedro.lg" />](https://www.instagram.com/joaopedro.lg/)&nbsp;&nbsp;&nbsp;
