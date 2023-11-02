@@ -9,14 +9,6 @@
   <li>💬 My English is <strong>advanced</strong></li>
 </ul>
 
-<style>
-  /* Custom styles to remove underline from links */
-  a {
-    text-decoration: none;
-    color: inherit; /* Use the parent element's color (black in this case) for the link text */
-  }
-</style>
-
 ### :globe_with_meridians: Contact:
 
 <a href="https://www.instagram.com/joaopedro.lg/" style="text-decoration: none;">
