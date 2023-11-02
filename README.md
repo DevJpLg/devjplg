@@ -9,33 +9,28 @@
   <li>💬 My English is <strong>advanced</strong></li>
 </ul>
 
-<h2 style="color:blue;">Main Tools:</h2>
-- Frontend
+<h2 style="color:blue;">Others</h2>
+- Studying
 
 <div>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=222">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
-</div>
-
-- backend
-
-<div>
-  <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/mongodb-00ED64?style=for-the-badge&logo=mongodb&logoColor=00684A">
-  <img src="https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=black">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 - SO
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-<h2 style="color:white;">:globe_with_meridians: Contact: :brazil: :brazil: </h2>
+### :globe_with_meridians: Contact:
 
 <a href="https://www.instagram.com/joaopedro.lg/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=joaopedro.lg" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=joaopedro.lg" />
+  </a>
+
+<a href="https://www.linkedin.com/in/joãopedrolopesgonçalves" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:joaopedro.lg@hotmail.com?subject = Eai%20Ryann&body = Tudo%20bom?" target="_blank">
+<a href="mailto:joaopedro.lg@hotmail.com?subject" target="_blank">
   <img src="https://img.shields.io/badge/EMAIL-white?&style=for-the-badge&logo=mail.ru&logoColor=FFFFFF&label=joaopedro.lg@hotmail.com" />
 </a>
