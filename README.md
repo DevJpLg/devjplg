@@ -18,17 +18,18 @@
 </div>
 
 <li>SO:</li>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 ### :globe_with_meridians: Contact:
-<a href="https://www.instagram.com/joaopedro.lg/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=joaopedro.lg"/>
+
+<a href="https://www.instagram.com/joaopedro.lg/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=joaopedro.lg" alt="imagem_Instagram">
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/joãopedrolopesgonçalves" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/joãopedrolopesgonçalves" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="imagem_Linkedin">
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:joaopedro.lg@hotmail.com?subject" target="_blank">
-  <img src="https://img.shields.io/badge/EMAIL-white?&style=for-the-badge&logo=mail.ru&logoColor=FFFFFF&label=joaopedro.lg@hotmail.com"/>
-</a>
+<a href="mailto:joaopedro.lg@hotmail.com?subject" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/EMAIL-white?&style=for-the-badge&logo=mail.ru&logoColor=FFFFFF&label=joaopedro.lg@hotmail.com" alt="imagem_Email">
+</a>&nbsp;&nbsp;&nbsp;
