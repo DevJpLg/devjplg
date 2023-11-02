@@ -9,17 +9,6 @@
   <li>💬 My English is <strong>advanced</strong></li>
 </ul>
 
-<h2 style="color:blue;">Others</h2>
-
-<li>Studying:</li>
-<div>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</div>
-
-<li>SO:</li>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
 ### :globe_with_meridians: Contact:
 
 <a href="https://www.instagram.com/joaopedro.lg/" style="text-decoration: none;">
