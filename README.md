@@ -1,3 +1,5 @@
+<img src="https://miro.medium.com/v2/resize:fit:700/1*ILmF44mRXGxayP2AXc2hWA.gif" alt="Imagem">
+
 ### Things about me:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Imagem">
 <ul>
