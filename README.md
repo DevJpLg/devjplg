@@ -3,7 +3,7 @@
 <h2 style="color:blue;">Things about me:</h2>
 <ul>
   <li>🌎 From <strong>Brazil</strong> to the <strong>World</strong></li>
-  <li>📚 Studying Computer Engineering at <strong>IFF Campos Centro</strong></li>
+  <li>📚 Studying Computer Engineering at <strong><a href="https://portal1.iff.edu.br/nossos-campi/campos-centro">IFF Campos Centro</a></strong></li>
   <li>🕒 My hobby is learning <strong>new things</strong> and helping with <strong>projects</strong></li>
   <li>🌱 I’m currently learning <strong>C</strong> and <strong>Python</strong></li>
   <li>💬 My English is <strong>advanced</strong></li>
