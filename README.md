@@ -4,8 +4,8 @@
 <ul>
   <li>🌎 From <strong>Brazil</strong> to the <strong>World</strong></li>
   <li>📚 Studying Computer Engineering at <strong><a href="https://portal1.iff.edu.br/nossos-campi/campos-centro">IFF Campos Centro</a></strong></li>
-  <li>🕒 My hobby is learning <strong>new things</strong> and helping with <strong>projects</strong></li>
-  <li>🌱 I’m currently learning <strong>C</strong> and <strong>Python</strong></li>
+  <li>🕒 Always learning <strong>new things</strong> and helping with <strong>projects</strong></li>
+  <li>🌱 I’m currently studying <strong>JavaScript</strong> and <strong>Python</strong></li>
   <li>💬 My English is <strong>advanced</strong></li>
 </ul>
 
