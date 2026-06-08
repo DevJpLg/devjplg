@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/followers/DevJpLg?label=Followers&style=flat-square&color=6e40c9" />
   </p>
 
-  <a href="https://joaopedro-lg.vercel.app">
+  <a href="https://jplg.dev">
     <img src="https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
