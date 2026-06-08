@@ -130,13 +130,13 @@
 <h3 align="center">🌐 Connect with me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaopedrolopesgoncalves/">
+  <a href="https://www.linkedin.com/in/joaopedrolg/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:joaopedrolg@hotmail.com">
     <img src="https://img.shields.io/badge/EMAIL-0078D4?&style=for-the-badge&logo=microsoftoutlook&logoColor=white&label=joaopedrolg@hotmail.com" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/joaopedrolg.lg/">
+  <a href="https://www.instagram.com/joaopedro.lg/">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?&style=for-the-badge&logo=instagram&logoColor=white&label=@joaopedrolg.lg" />
   </a>
 </p>
