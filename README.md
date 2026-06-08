@@ -137,6 +137,6 @@
     <img src="https://img.shields.io/badge/EMAIL-0078D4?&style=for-the-badge&logo=microsoftoutlook&logoColor=white&label=joaopedrolg@hotmail.com" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/joaopedro.lg/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?&style=for-the-badge&logo=instagram&logoColor=white&label=@joaopedrolg.lg" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?&style=for-the-badge&logo=instagram&logoColor=white&label=@joaopedro.lg" />
   </a>
 </p>
