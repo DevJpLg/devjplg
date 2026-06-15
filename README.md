@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZiMXZnYnlmcW9mZHZ6ODgxaTBhOGMzN3puYXl3cW1kcXRubGdocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8tTGrCtze4QgDntz1F/giphy.gif" alt="Banner" width="240" />
-
-  <h2>I'm João Pedro Lopes Gonçalves</h2>
-
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=6E40C9&center=true&vCenter=true&width=720&lines=Data+Engineering+%26+Automation;Python+%7C+SQL+%7C+ETL+Pipelines;AWS+%7C+Microsoft+Azure;Building+data-driven+solutions+for+real-world+operations." alt="Typing SVG" />
   </a>
